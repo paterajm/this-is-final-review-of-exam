@@ -22,6 +22,7 @@ public class ExamReviewFinal {
     public static void main(String[] args) {
         // TODO code application logic here
     ExamReviewFinal myObj=new ExamReviewFinal();
+    ExamReviewFinal myObj2=new ExamReviewFinal();
     System.out.println(myObj.age);
     System.out.println(myObj.dob);
 
