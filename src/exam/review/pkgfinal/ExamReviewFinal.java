@@ -24,7 +24,9 @@ public class ExamReviewFinal {
     ExamReviewFinal myObj=new ExamReviewFinal();
     ExamReviewFinal myObj2=new ExamReviewFinal();
     System.out.println(myObj.age);
+    System.out.println(myObj2.age);
     System.out.println(myObj.dob);
+    System.out.println(myObj2.dob);
 
 
     }
